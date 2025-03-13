@@ -113,28 +113,40 @@ export default function Blogpost2() {
                 </ol>
               </p>
               <p>
-                การวินิจฉัยระบบด้วย Weisbord's Six-Box Model
-                <ol style={{ listStyleType: "decimal " }} className="ml-3">
-                  {""}
-                  ความมุ่งหมาย (Purpose) หรือพันธกิจ (Mission)-มีความชัดเจน
-                  -ได้รับการยอมรับจากพนักงานหรือไม่ 2. โครงสร้าง
-                  (Structure)-กิจกรรม/งานต่างๆ ถูกแบ่งในลักษณะใด
-                  กิจกรรม/งานต่างๆ ถูกแบ่งในลักษณะใด 3. ความสัมพันธ์
-                  (Relationships)-การประสานงานระหว่างหน่วยงานเป็นไปด้วยดีหรือไม่
-                  หรือก่อให้เกิดความขัดแย้งอย่างไร
-                  และจัดการกับความขัดแย้งนั้นอย่างไร 4. การให้รางวัล
-                  (Rewards)-มีการให้รางวัลสำหรับผลงานที่ต้องการหรือไม่
-                  หรือมีมาตรการลงโทษอย่างไร 5. ภาวะผู้นำ
-                  (Leadership)-นำการขับเคลื่อนองค์การ
-                  มีหน้าที่กำกับติดตามความเป็นไป หรือความสำเร็จขององค์ประกอบทั้ง
-                  5 ด้าน 6. ระบบกลไก (Helpful mechanism)-องค์การมีเครื่องมือ
-                  หรือเทคโนโลยีสำหรับการประสานงานระหว่างหน่วยงานต่างๆ
-                  อย่างเพียงพอหรือไม่ ข้อดี ข้อเสียของ Model ข้อดี คือเป็น Model
-                  ที่เข้าใจง่าย ข้อเสีย
+                การวินิจฉัยระบบด้วย Weisbord's Six-Box Model ดังนี้{" "}
+                <ol style={{ listStyleType: "decimal" }} className="ml-3">
+                  {" "}
                   <li>
-                    -เป็นการวินิจฉัยระบบที่ขาดความรอบด้าน
-                    -เนื่องจากไม่ได้แสดงความเกี่ยวพันของแต่ละองค์ประกอบอย่างชัดเจน
-                    -รวมทั้งไม่ได้คำนึงถึงอิทธิพลของสิ่งแวดล้อม
+                    ความมุ่งหมาย (Purpose) หรือพันธกิจ
+                    (Mission)มีความชัดเจนได้รับการยอมรับจากพนักงานหรือไม่{" "}
+                  </li>
+                  <li>
+                    โครงสร้าง (Structure) กิจกรรม/งานต่างๆ ถูกแบ่งในลักษณะใด
+                    ช่วยตอบสนองต่อความมุ่งหมาย/พันธกิจอย่างมีประสิทธิภาพหรือไม่{" "}
+                  </li>
+                  <li>
+                    ความสัมพันธ์ (Relationships)
+                    การประสานงานระหว่างหน่วยงานเป็นไปด้วยดีหรือไม่
+                    หรือก่อให้เกิดความขัดแย้งอย่างไร
+                    และจัดการกับความขัดแย้งนั้นอย่างไร{" "}
+                  </li>
+                  <li>
+                    รางวัล (Rewards) มีการให้รางวัลสำหรับผลงานที่ต้องการหรือไม่
+                    หรือมีมาตรการลงโทษอย่างไร{" "}
+                  </li>
+                  <li>
+                    การนำ (Leadership) นำการขับเคลื่อนองค์การ
+                    มีหน้าที่กำกับติดตามความเป็นไป
+                    หรือความสำเร็จขององค์ประกอบทั้ง 5 ด้าน{" "}
+                  </li>
+                  <li>
+                    กลไกที่จำเป็น (Helpful
+                    Mechanism)องค์การมีเครื่องมือหรือเทคโนโลยีสำหรับการประสานงานระหว่างหน่วยงานต่างๆ
+                    อย่างเพียงพอหรือไม่{" "}
+                  </li>
+                  <li>
+                    ข้อดี ข้อเสียของ Model ข้อดี คือเป็น Model ที่เข้าใจง่าย
+                    ข้อเสียเป็นการวินิจฉัยระบบที่ขาดความรอบด้านเนื่องจากไม่ได้แสดงความเกี่ยวพันของแต่ละองค์ประกอบอย่างชัดเจนรวมทั้งไม่ได้คำนึงถึงอิทธิพลของสิ่งแวดล้อม
                   </li>
                 </ol>
               </p>
@@ -162,31 +174,32 @@ export default function Blogpost2() {
             </div>
           </div>
           {/* <div id="navigation">
-      <p>
-        <strong>Navigation Here</strong>
-      </p>
-      <ul>
-        <li>
-          <a href="http://www.free-css.com/">Free CSS Templates</a>
-        </li>
-        <li>
-          <a href="http://www.free-css.com/free-css-layouts.php">
-            Free CSS Layouts
-          </a>
-        </li>
-      </ul>
-    </div>
-    <div id="extra">
-      <p>
-        <strong>More stuff here.</strong>
-      </p>
-      <p>
-        sit malesuada lacus pellus parturpiscing. Pellenterdumat maecenatoque
-        cras a magna nibh et quis diam ames et. Laoremvolutpat ac dolor eget
-        eget temper lacus vestibus velit lacus venean. Magnaipsum tellus morbi
-        leo aliquat nulla convallis pellentesque.
-      </p>
-    </div> */}
+            <p>
+              <strong>Navigation Here</strong>
+            </p>
+            <ul>
+              <li>
+                <a href="http://www.free-css.com/">Free CSS Templates</a>
+              </li>
+              <li>
+                <a href="http://www.free-css.com/free-css-layouts.php">
+                  Free CSS Layouts
+                </a>
+              </li>
+            </ul>
+          </div> */}
+          {/* <div id="extra">
+            <p>
+              <strong>More stuff here.</strong>
+            </p>
+            <p>
+              sit malesuada lacus pellus parturpiscing. Pellenterdumat
+              maecenatoque cras a magna nibh et quis diam ames et.
+              Laoremvolutpat ac dolor eget eget temper lacus vestibus velit
+              lacus venean. Magnaipsum tellus morbi leo aliquat nulla convallis
+              pellentesque.
+            </p>
+          </div> */}
           <div id="footer">{/* <p>Footer</p> */}</div>
         </div>
       </>
